@@ -1,0 +1,290 @@
+html, body{
+	height: 100%;
+	width: 100%;
+	margin: 0;
+}
+.main{
+	height: 100%;
+	width: 100%;
+	background-color: black;	
+}
+.second {
+	height: 100%;
+	width: 90%;
+	background-color: #e5e5e5;
+	margin: auto;
+	
+}
+
+.third {
+	height: 10%;
+	width: 100%;
+	background-color: #03a9f4;
+	box-shadow: 0 0 20px 0 ;
+	color: dimgray;
+	
+	
+}
+
+
+
+.four {
+	height: 120px;
+	width: 470px;
+	background-color: white;
+	margin: auto;
+	top: 23px;
+	position: relative;
+
+}
+.four1 {
+	height: 80px;
+	width: 80px;
+    position: relative;
+	top: 30px;
+	left: 40px;
+	background-image: url(../image/ham.png);
+	background-repeat: no-repeat;
+}
+
+
+
+}
+
+.four2 {
+	height: 50px;
+	
+}
+
+.five {
+	height: 120px;
+	width: 470px;
+	background-color: white;
+	margin: auto;
+	top: 65px;
+	position: relative;
+
+
+}
+
+
+
+.six {
+    height: 120px;
+	width: 470px;
+	background-color: white;
+	margin: auto;
+	top: 85px;
+	position: relative;
+}
+
+.six1 {
+	height: 80px;
+	width: 80px;
+	position: relative;
+	top: 20px;
+	left: 25px;
+	background-image: url(../image/man.png);
+	background-repeat: no-repeat;
+	background-position: center;
+
+}
+
+.seven {
+	height: 120px;
+	width: 470px;
+	background-color: white;
+	margin: auto;
+	top: 110px;
+	position: relative;
+
+}
+
+.seven1 {
+	height: 80px;
+	width: 80px;
+	position: relative;
+	top: 20px;
+	left: 25px;
+	background-image: url(../image/team.png);
+	background-repeat: no-repeat;
+    background-position: center;
+}
+
+.first {
+	height: 20px;
+	width: 150px;
+	position: relative;
+	left: 110px;
+	font-family:solid;
+	font-size: 20px;
+}
+
+.first1 {
+	height: 30px;
+	width: 150px;
+	background-color: red;
+	position: relative;
+	left: 100px;
+ 
+}
+
+.first2 {
+	height: 20px;
+	width: 150px;
+	position: relative;
+	top: 12px;
+	left: 110px;
+	font-size: 17px;
+}
+
+.first4 {
+	height: 25px;
+	width: 25px;
+	position: relative;
+	left: 395px;
+	bottom: 65px;
+	background-image: url(../image/favorite-heart.png);
+	background-repeat: no-repeat;
+	
+}
+
+.five2 {
+	height: 20px;
+	width: 150px;
+	position: relative;
+	left: 150px;
+	bottom: 50px;
+	font-family:solid;
+	font-size: 20px;
+}
+
+.five1 {
+	height: 80px;
+	width: 80px;
+    position: relative;
+	top: 30px;
+	left: 40px;
+    background-image: url(..//image/manu.png);
+	background-repeat: no-repeat;
+	
+
+}
+
+.five3 {
+	height: 25px;
+	width: 25px;
+	position: relative;
+	left: 435px;
+	bottom: 90px;
+	background-image: url(../image/favorite-heart.png);
+	background-repeat: no-repeat;
+}
+
+.five4 {
+	height: 20px;
+	width: 150px;
+	position: relative;
+	bottom: 60px;
+	left: 150px;
+	font-size: 17px;
+	
+
+}
+
+.six2 {
+	height: 20px;
+	width: 150px;
+	position: relative;
+	left: 145px;
+	bottom: 50px;
+	font-family:solid;
+	font-size: 20px;
+}
+
+.six3 {
+	height: 20px;
+	width: 150px;
+	position: relative;
+	bottom: 35px;
+	left: 145px;
+	font-size: 17px;
+}
+
+.seven2 {
+	height: 20px;
+	width: 150px;
+	position: relative;
+	left: 145px;
+	bottom: 50px;
+	font-family:solid;
+	font-size: 20px;
+}
+
+.seven3 {
+	height: 20px;
+	width: 150px;
+	position: relative;
+	bottom: 35px;
+	left: 145px;
+	font-size: 17px;
+
+}
+
+.seven4 {
+	height: 25px;
+	width: 25px;
+	position: relative;
+	left: 435px;
+	bottom: 113px;
+	background-image: url(../image/favorite-heart.png);
+	background-repeat: no-repeat;
+	
+}
+
+.six4 {
+	height: 25px;
+	width: 25px;
+	position: relative;
+	left: 435px;
+	bottom: 113px;
+	background-image: url(../image/favorite-heart.png);
+	background-repeat: no-repeat;
+
+}
+
+.third1 {
+	height: 30px;
+	width: 30px;
+	position: relative;
+	top: 33px;
+	left: 17px;
+	color:white;
+	font-size: 15px;
+	font-family: arial;
+}
+
+.third2 {
+	height: 30px;
+	width: 30px;
+	position: relative;
+	top: 3px;
+	left: 140px;
+	color: lightyellow;
+	font-size: 15px;
+	font-family: arial;
+
+}
+
+.third3 {
+	height: 30px;
+	width: 90px;
+	position: relative;
+	bottom: 25px;
+	left: 240px;
+	color: lightyellow;
+	font-size: 15px;
+	font-family: arial;
+
+
+}
